@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CGLFWLinux",
+        "repositoryURL": "https://github.com/SwiftGL/CGLFWLinux.git",
+        "state": {
+          "branch": "master",
+          "revision": "53da36b8e70abb9ecc8c65a19a82f6486c7e4d82",
+          "version": null
+        }
+      },
+      {
+        "package": "SGLImage",
+        "repositoryURL": "https://github.com/SwiftGL/Image.git",
+        "state": {
+          "branch": null,
+          "revision": "7aa96e7548baa8d06619b97a1906012193f6eff8",
+          "version": "2.2.0"
+        }
+      },
+      {
+        "package": "SGLMath",
+        "repositoryURL": "https://github.com/SwiftGL/Math.git",
+        "state": {
+          "branch": null,
+          "revision": "4712dfff4fac7c459a3f997cea1b5e6475f14641",
+          "version": "2.2.0"
+        }
+      },
+      {
+        "package": "SGLOpenGL",
+        "repositoryURL": "https://github.com/SwiftGL/OpenGL.git",
+        "state": {
+          "branch": "master",
+          "revision": "70b765437206a2b8b45c373bb70abbeb61004325",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
