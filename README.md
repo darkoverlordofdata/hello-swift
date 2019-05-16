@@ -2,6 +2,17 @@
 
 using: http://www.swiftgl.org/learn/01-hello-window.html
 
+update .build/checkouts/CGLFWLinux/Package.swift,
+change 1st line to // swift-tools-version:4.0
+
+### extensions
+
+https://github.com/vadimcn/vscode-lldb
+
+sudo apt install libglfw3-dev libcurl4 libcurl4-opens
+sl-dev -y
+
+
 #### Windows 10 / WLS
 
 Swift 5.0 for Ubuntu 18.04 (Bionic) with VSCode
